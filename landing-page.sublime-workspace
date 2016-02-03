@@ -1,0 +1,335 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"bou",
+				"bounceInRight"
+			],
+			[
+				"bounc",
+				"bounceInLeft"
+			],
+			[
+				"cl",
+				"class=〔attribute〕"
+			],
+			[
+				"colo",
+				"color"
+			],
+			[
+				"san",
+				"sans-serif"
+			],
+			[
+				"fa-pho",
+				"fa-phone	fa-phone"
+			],
+			[
+				"a",
+				"a	<a href=\"mailto:\"> "
+			],
+			[
+				"fa-map",
+				"fa-map-marker	fa-map-marker"
+			],
+			[
+				"fa-pin",
+				"fa-pinterest-square	fa-pinterest-square"
+			],
+			[
+				"fa-li",
+				"fa-linkedin	fa-linkedin"
+			],
+			[
+				"fa-twitt",
+				"fa-twitter-square	fa-twitter-square"
+			],
+			[
+				"fa-face",
+				"fa-facebook-official	fa-facebook-official"
+			],
+			[
+				"back",
+				"background"
+			],
+			[
+				"butt",
+				"button"
+			],
+			[
+				"cit",
+				"cite	Tag"
+			],
+			[
+				"RE",
+				"REVIEWS"
+			],
+			[
+				"scree",
+				"screenshots	(index.html)"
+			],
+			[
+				"png",
+				"png"
+			],
+			[
+				"backgrou",
+				"background-color"
+			],
+			[
+				"footer",
+				"footer	Tag"
+			],
+			[
+				"bloc",
+				"blockquote	Tag"
+			],
+			[
+				"textal",
+				"text-align"
+			],
+			[
+				"head",
+				"header"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"fa",
+				"fa-li	fa-list"
+			],
+			[
+				"ou",
+				"outline"
+			],
+			[
+				"inp",
+				"inputc	input - checkbox"
+			],
+			[
+				"img",
+				"img	HTML - Image"
+			],
+			[
+				"bs",
+				"bs3-row	bs3-row"
+			],
+			[
+				"in",
+				"inpute	input - email"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "packa",
+		"selected_items":
+		[
+			[
+				"packa",
+				"Package Control: Install Package"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"package",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 593.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/Lance/www/landing-page",
+		"/Users/Lance/www/landing-page/css"
+	],
+	"file_history":
+	[
+		"/Users/Lance/www/landing-page/css/style.css",
+		"/Users/Lance/www/landing-page/index.html",
+		"/Users/Lance/Downloads/Web Design PSD/HTML/VIGGO-One-Page-HTML5-Template/UPLOAD/viggo/index.html",
+		"/Users/Lance/Desktop/normalize.css",
+		"/Users/Lance/Downloads/Web Design PSD/HTML/Pivot  Multi-Purpose  HTML  with  Page  Builder  v2.0.2  8748103/Pivot 2.0.2/one-page.html",
+		"/Volumes/Macintosh HD/Downloads/Website Template/Unika v1.0.1 Responsive Material Design Onepage HTML Template 11606555/Unika html 1.01/index-video-bg.html",
+		"/Users/Lance/www/landing-page/css/bootstrap.min.css",
+		"/Users/Lance/Library/Application Support/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/Users/Lance/Library/Application Support/Sublime Text 3/Packages/User/bh_core.sublime-settings",
+		"/Users/Lance/Library/Application Support/Sublime Text 3/Packages/BracketHighlighter/bh_core.sublime-settings",
+		"/Users/Lance/Library/Application Support/Sublime Text 3/Packages/BracketHighlighter/bh_wrapping.sublime-settings",
+		"/Users/Lance/Library/Application Support/Sublime Text 3/Packages/BracketHighlighter/bh_swapping.sublime-settings",
+		"/Users/Lance/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/Users/Lance/www/landing-page/js/test.js",
+		"/Users/Lance/Library/Application Support/Sublime Text 3/Packages/User/Emmet.sublime-settings",
+		"/Users/Lance/Library/Application Support/Sublime Text 3/Packages/SublimeLinter/SublimeLinter.sublime-settings",
+		"/Users/Lance/Library/Application Support/Sublime Text 3/Packages/HTMLBeautify/HTMLBeautify.sublime-settings",
+		"/Users/Lance/Library/Application Support/Sublime Text 3/Packages/BracketGuard/BracketGuard.sublime-settings",
+		"/Users/Lance/Library/Application Support/Sublime Text 3/Packages/User/trailing_spaces.sublime-settings",
+		"/Users/Lance/Library/Application Support/Sublime Text 3/Packages/TrailingSpaces/trailing_spaces.sublime-settings",
+		"/Users/Lance/Library/Application Support/Sublime Text 3/Packages/SublimeCodeIntel/SublimeCodeIntel.sublime-settings",
+		"/Users/Lance/Library/Application Support/Sublime Text 3/Packages/View In Browser/View In Browser.sublime-settings",
+		"/Users/Lance/www/mastering-css/section-5-site/5-1-starting-the-nav/index.html",
+		"/Users/Lance/Library/Application Support/Sublime Text 3/Packages/Default/Default (OSX).sublime-keymap",
+		"/Users/Lance/Library/Application Support/Sublime Text 3/Packages/User/Default (OSX).sublime-keymap",
+		"/Users/Lance/www/mastering-css/section-5-site/5-2-pseudo-classes/index.html",
+		"/Users/Lance/Library/Application Support/Sublime Text 3/Packages/User/HTML.sublime-settings"
+	],
+	"find":
+	{
+		"height": 29.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"active",
+			"super+alt+r",
+			"tab",
+			"	<",
+			"this",
+			"\n<!--",
+			"]>\n"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 29.0
+	},
+	"input":
+	{
+		"height": 37.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "landing-page.sublime-project",
+	"replace":
+	{
+		"height": 54.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 216.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
